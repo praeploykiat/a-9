@@ -10,7 +10,7 @@ function Home() {
             </section>
 
             <Link to='/new-ticket' className='btn btn-reverse btn-block'>
-                <FaQuestionCircle /> Create New Appointment
+                <FaQuestionCircle /> Create New Vaccine Appointment
             </Link>
 
             <Link to='/tickets' className='btn btn-block'>
